@@ -29,16 +29,15 @@ footer button {
   font-family: 'Indie Flower', cursive;
 }
 #section1 {
-
+  padding-top: 500px;
   font-size: 1.66em;
-  text-shadow: 3px 3px 1px #48F7FF;
+  text-shadow: 3px 3px 1px black;
   background: url(sandPic1.jpg) no-repeat -200px -800px;
+  background-size:auto;
   color: #1F30DD;
   padding-top: 100px;
   margin: 0;
 }
-
-
 
 #portfolioLinks {
   column-fill: auto;
