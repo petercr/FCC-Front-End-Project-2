@@ -24,16 +24,13 @@ footer button {
   margin-top: 25px;
 }
 
-#section3 .logoFont {
-  font-size: 1.6em;
-  font-family: 'Indie Flower', cursive;
-}
+
 #section1 {
-  padding-top: 500px;
+
   font-size: 1.66em;
-  text-shadow: 3px 3px 1px black;
-  background: url(sandPic1.jpg) no-repeat -200px -800px;
-  background-size:auto;
+  text-shadow: 2px 2px 1px black;
+  background: url(sandPic1.jpg) repeat -200px -800px;
+  background-size: 200 200;
   color: #1F30DD;
   padding-top: 100px;
   margin: 0;
@@ -41,9 +38,19 @@ footer button {
 
 #portfolioLinks {
   column-fill: auto;
+  padding-top: 50px;
 
+}
+
+#section2 {
+  background-color: black;
 }
 
 #section3 {
   padding-bottom: 50px;
+}
+
+#section3 .logoFont {
+  font-size: 1.6em;
+  font-family: 'Indie Flower', cursive;
 }
