@@ -1,0 +1,50 @@
+/* Corresponding Style Sheet for Project 2 of Free Code Camp
+  * Coded by Peter Cruckshank
+  GitHub: github.com/PeterCr
+*/
+nav {
+  font-family: 'Spectral', serif;
+
+}
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+
+footer {
+  background-color: #99ebff;
+
+}
+
+footer button {
+  width: 25%;
+  height: 20%;
+  display: inline;
+  margin-top: 25px;
+}
+
+#section3 .logoFont {
+  font-size: 1.6em;
+  font-family: 'Indie Flower', cursive;
+}
+#section1 {
+
+  font-size: 1.66em;
+  text-shadow: 3px 3px 1px #48F7FF;
+  background: url(sandPic1.jpg) no-repeat -200px -800px;
+  color: #1F30DD;
+  padding-top: 100px;
+  margin: 0;
+}
+
+
+
+#portfolioLinks {
+  column-fill: auto;
+
+}
+
+#section3 {
+  padding-bottom: 50px;
+}
