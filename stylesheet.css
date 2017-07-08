@@ -36,6 +36,10 @@ footer button {
   margin: 0;
 }
 
+#topButtons {
+  padding: 100px;
+}
+
 #portfolioLinks {
   column-fill: auto;
   padding-top: 50px;
