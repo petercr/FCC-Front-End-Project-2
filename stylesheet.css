@@ -32,15 +32,17 @@ footer button {
 
   font-size: 1.66em;
   text-shadow: 2px 2px 1px black;
-  background: url(sandPic1.jpg) repeat -200px -800px;
-  background-size: 200 200;
+  background: url(sandPic1.jpg) repeat;
+  background-size: cover;
   color: #1F30DD;
-  padding-top: 100px;
+  padding-top: 220px;
   margin: 0;
 }
 
 #topButtons {
-  padding: 100px;
+
+  padding-bottom: 200px;
+
 }
 
 #portfolioLinks {
