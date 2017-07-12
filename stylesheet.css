@@ -15,6 +15,7 @@ body {
 footer {
   background-color: #99ebff;
   font-family: 'Roboto Slab', serif;
+  padding-left: 50px;
 
 }
 
@@ -25,7 +26,6 @@ footer button {
   display: inline-block;
   margin-top: 25px;
   padding: 10px;
-
 }
 
 
@@ -36,14 +36,15 @@ footer button {
   background: url(sandPic1.jpg) repeat;
   background-size: cover;
   color: #1F30DD;
-  padding-top: 220px;
+  padding-top: 100px;
   padding-bottom: 50px;
   margin: 0;
 }
 
 #section1 h6 {
     font-family: 'Indie Flower', cursive;
-    font-size: 1em;
+    font-size: 1.1em;
+
 }
 
 #topButtons {
