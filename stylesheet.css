@@ -37,7 +37,13 @@ footer button {
   background-size: cover;
   color: #1F30DD;
   padding-top: 220px;
+  padding-bottom: 50px;
   margin: 0;
+}
+
+#section1 h6 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 1em;
 }
 
 #topButtons {
