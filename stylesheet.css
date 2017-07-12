@@ -14,6 +14,7 @@ body {
 
 footer {
   background-color: #99ebff;
+  font-family: 'Roboto Slab', serif;
 
 }
 
@@ -53,6 +54,11 @@ footer button {
 
 #section2 {
   background-color: black;
+}
+
+#section2 .jumbotron {
+  max-height: 318.5px;
+  background-color: #99ebff;
 }
 
 #section3 {
