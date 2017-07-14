@@ -36,7 +36,7 @@ footer button {
   background: url(sandPic1.jpg) repeat;
   background-size: cover;
   color: #1F30DD;
-  padding-top: 100px;
+  padding-top: 200px;
   padding-bottom: 50px;
   margin: 0;
 }
@@ -66,6 +66,7 @@ footer button {
 #section2 .jumbotron {
   max-height: 318.5px;
   background-color: #99ebff;
+  overflow: auto;
 }
 
 #section3 {
