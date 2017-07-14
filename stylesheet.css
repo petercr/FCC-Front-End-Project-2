@@ -2,6 +2,8 @@
   * Coded by Peter Cruckshank
   GitHub: github.com/PeterCr
 */
+
+/* GLOBAL styling*/
 nav {
   font-family: 'Spectral', serif;
 
@@ -32,6 +34,7 @@ footer button {
   padding: 10px;
 }
 
+/* #ID styling */
 
 #section1 {
 
