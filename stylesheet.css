@@ -4,9 +4,14 @@
 */
 
 /* GLOBAL styling*/
-nav {
+.nav {
   font-family: 'Spectral', serif;
 
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
 }
 
 body {
@@ -23,6 +28,7 @@ footer {
 
 footer ul {
   list-style: none;
+  word-wrap: normal;
 }
 
 footer button {
