@@ -19,10 +19,14 @@ footer {
 
 }
 
+footer ul {
+  list-style: none;
+}
+
 footer button {
   width: 20%;
   height: 20%;
-  border-radius: 45%;
+  border-radius: 55%;
   display: inline-block;
   margin-top: 25px;
   padding: 10px;
