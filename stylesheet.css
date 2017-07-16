@@ -29,6 +29,7 @@ footer {
 footer ul {
   list-style: none;
   word-wrap: normal;
+  padding-left: 0;
 }
 
 footer button {
@@ -64,7 +65,7 @@ footer button {
 
   padding-bottom: 200px;
   padding: 25px;
-  
+
 
 }
 
