@@ -85,6 +85,12 @@ footer button {
   overflow: auto;
 }
 
+#section2 a {
+  color: #000;
+  text-shadow: 2px 2px 3px #000;
+  text-decoration: underline;
+}
+
 #section3 {
   padding-bottom: 50px;
 }
