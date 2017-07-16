@@ -69,12 +69,6 @@ footer button {
 
 }
 
-#portfolioLinks {
-  column-fill: auto;
-  padding-top: 50px;
-
-}
-
 #section2 {
   background-color: black;
 }
@@ -89,6 +83,12 @@ footer button {
   color: #000;
   text-shadow: 2px 2px 3px #000;
   text-decoration: underline;
+}
+
+#portfolioLinks {
+  column-fill: auto;
+  padding-top: 50px;
+
 }
 
 #section3 {
