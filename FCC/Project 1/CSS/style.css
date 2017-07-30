@@ -1,0 +1,54 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.5em;
+}
+
+#alignLeft {
+  text-align: left;
+  
+}
+h1 {
+  padding: 5px;
+  padding-top:15px;
+  font-weight: bold;
+  text-shadow: 5px 5px 2px grey;
+}
+
+h5 {
+  padding:20px;
+  text-shadow: 2px 2px 2px grey;
+}
+
+.mainSection {
+  
+  width: 80%;
+  text-align: center;
+  background-color: #D4D4D4;
+}
+
+
+.captionText {
+  
+  font-size: 175%;
+  padding: 40px;
+  
+ 
+}
+
+.pictureDiv {
+  background-color: white;
+}
+
+.timeLine {
+  padding: 50px;
+  text-align: left;
+  padding-left: 200px;
+  padding-right: 200px;
+ 
+}
+
+footer {
+  background-color:white;
+    text-align: center;
+  padding: 20px;
+}
